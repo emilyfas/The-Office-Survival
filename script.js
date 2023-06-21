@@ -11,11 +11,7 @@ function activeTab(index){
     infos.forEach((content) => {
         content.classList.remove("ativo");
     })
-    infos[index].classList.add("ativo");
-    
-    
-    
-    
+    infos[index].classList.add("ativo"); 
 }
 
 function menuClickedHandler(event){
