@@ -136,4 +136,4 @@ Se você tiver alguma dúvida, sugestão ou quiser entrar em contato:
   [Índice :point_up:](#índice)
 </div>
 
-Divirta-se encontrando o Scranton Strangler!
+Divirta-se encontrando o Scranton Strangler! <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
