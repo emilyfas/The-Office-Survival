@@ -39,7 +39,7 @@ Um site engraçado e totalmente responsivo, baseado na serie The Office.
 
 ## Acesso ao projeto:
 
-Você pode [acessar o código fonte do projeto inicial]([https://github.com/emilyfas/Portfolio/find/main](https://github.com/emilyfas/The-Office-Survival.git)) ou [baixar o arquivo .zip]([https://github.com/emilyfas/Portfolio/archive/refs/heads/main.zip](https://github.com/emilyfas/The-Office-Survival/archive/refs/heads/main.zip)).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/emilyfas/The-Office-Survival.git) ou [baixar o arquivo .zip](https://github.com/emilyfas/The-Office-Survival/archive/refs/heads/main.zip).
 </div>
 <div align="right">
 
