@@ -63,14 +63,13 @@ main{
 }
 
 
-
 .hover-image{
     background-color: #e4e4e4;
     cursor: pointer;
 }
-
-
-
+.clicked-image{
+    background-color: #222222;
+}
 
 
 .result-container{

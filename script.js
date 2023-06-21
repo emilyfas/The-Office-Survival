@@ -12,13 +12,23 @@ function activeTab(index){
         content.classList.remove("ativo");
     })
     infos[index].classList.add("ativo");
+    
+    
+    
+    
 }
+
+function menuClickedHandler(event){
+    event.currentTarget.classList.add('clicked-image');
+    console.log(event.currentTarget);
+}
+
 
 const links = document.querySelectorAll('.image-item a');
 function linkHover(event){
     const windowHeight = document.body.offsetWidth;
 
-    console.log(event.currentTarget);
+    
     if (windowHeight < 1218) {
         links.forEach((content) => {
             content.setAttribute('href', '#result');
@@ -40,6 +50,10 @@ opitions.forEach((itemMenu, index) => {
     itemMenu.addEventListener('click', () => {
         activeTab(index);
     })
+})
+
+opitions.forEach((itemMenu) => {
+    itemMenu.addEventListener('click', menuClickedHandler)
 })
 
 imagens.forEach((img) => {
