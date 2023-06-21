@@ -21,7 +21,8 @@ Este projeto é um site interativo baseado na série de televisão "The Office".
 
 <div id="funcionalidades">
 
-## Funcionalidades principais:   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png?raw=true" alt="Call Me Hand" width="30" height="30"/>
+## Funcionalidades principais: 
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png?raw=true" alt="Call Me Hand" width="30" height="30"/>
 
 - Exibição de cards com fotos dos personagens de "The Office".
 - Verificação interativa para identificar se o personagem clicado é o Scranton Strangler.
