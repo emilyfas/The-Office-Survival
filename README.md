@@ -18,6 +18,19 @@ Um site engraçado e totalmente responsivo, baseado na serie The Office.
 * [Autora](#autora)
 
 
+<div id="responsividadees">
+
+## Responsividadee:
+
+<img src="https://github.com/emilyfas/The-Office-Survival/assets/115494759/cab492e7-df25-459c-80f2-8ec46a9e6fb4" width="50%">
+<img src="https://github.com/emilyfas/The-Office-Survival/assets/115494759/587cc44f-e89a-400e-b4eb-9c8eaca2cf90" width="25%">
+<img src="https://github.com/emilyfas/The-Office-Survival/assets/115494759/b2b7c50e-e2e3-405e-96c8-70909dbd8532" width="20%">
+
+</div>
+<div align="right">
+
+  [Índice :point_up:](#índice)
+</div>
 
 
 <div id="tecnologias-utilizadas">
