@@ -16,7 +16,6 @@ function activeTab(index){
 
 function menuClickedHandler(event){
     event.currentTarget.classList.add('clicked-image');
-    console.log(event.currentTarget);
 }
 
 
