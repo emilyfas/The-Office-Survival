@@ -14,19 +14,19 @@ Este projeto é um site interativo baseado na série de televisão "The Office".
 * [Como utilizar o site](#acesso-ao-projeto)
 * [Contribuição](#contribuicao)
 * [Responsividade](#responsividade)
-* [License](#licensa)
+* [Licença](#licensa)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Autora](#autora)
+* [Contato](#contato)
 
 
 <div id="funcionalidades">
 
-## Funcionalidades principais:
+## Funcionalidades principais: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png?raw=true" alt="Call Me Hand" width="30" height="30"/>
 
 - Exibição de cards com fotos dos personagens de "The Office".
 - Verificação interativa para identificar se o personagem clicado é o Scranton Strangler.
 - Feedback imediato com uma mensagem indicando a resposta correta.
-- Vídeo com uma cena icônica do personagem selecionado.
+- Vídeo com uma cena icônica do personagem selecionado (Os vídeos foram extraídos de episódios da série "The Office").
 
 </div>
 <div align="right">
@@ -38,7 +38,7 @@ Este projeto é um site interativo baseado na série de televisão "The Office".
 ---
 <div id="acesso-ao-projeto">
 
-## Como utilizar o site:
+## Como utilizar o site: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png?raw=true" alt="Call Me Hand" width="35" height="35"/>
 
 1. Acesse o site do projeto através do link [https://emilyfas.github.io/The-Office-Survival/].
 2. Na página principal, você verá uma grade de cards contendo fotos dos personagens de "The Office".
@@ -57,7 +57,7 @@ Você tambem pode [acessar o código fonte do projeto inicial](https://github.co
 
 <div id="contribuicao">
 
-##  Contribuição:
+##  Contribuição: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/People%20Hugging.png?raw=true" alt="Call Me Hand" width="35" height="35"/>
 
 Se você quiser contribuir para o desenvolvimento deste projeto, siga as etapas abaixo:
 
@@ -75,7 +75,7 @@ Se você quiser contribuir para o desenvolvimento deste projeto, siga as etapas 
 
 <div id="responsividade">
 
-## Responsividadee:
+## Responsividade: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png?raw=true" width="35" height="35"/>
 
 <img src="https://github.com/emilyfas/The-Office-Survival/assets/115494759/cab492e7-df25-459c-80f2-8ec46a9e6fb4" width="50%">
 <img src="https://github.com/emilyfas/The-Office-Survival/assets/115494759/587cc44f-e89a-400e-b4eb-9c8eaca2cf90" width="25%">
@@ -89,7 +89,7 @@ Se você quiser contribuir para o desenvolvimento deste projeto, siga as etapas 
 
 <div id="licensa">
 
-## License:
+## Licença: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Page%20with%20Curl.png?raw=true" alt="Call Me Hand" width="25" height="25"/>
 
 Este projeto está licenciado sob [licença utilizada]. Para mais detalhes, consulte o arquivo `LICENSE`.
 
@@ -101,7 +101,7 @@ Este projeto está licenciado sob [licença utilizada]. Para mais detalhes, cons
 
 <div id="tecnologias-utilizadas">
 
-## Tecnologias usadas no projeto:
+## Tecnologias usadas no projeto: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Toolbox.png?raw=true" alt="Call Me Hand" width="25" height="25"/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -114,11 +114,12 @@ Este projeto está licenciado sob [licença utilizada]. Para mais detalhes, cons
 </div>
 
 
+<div id="contato">
 
+## Contato: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="Call Me Hand" width="25" height="25"/>
 
-## Autora:
 ### Emilly Fernandes
-Alguns meios de contato:
+Se você tiver alguma dúvida, sugestão ou quiser entrar em contato:
 <div>
 <a href="https://wa.me/5531989018696?text=Me+mande+um+Oi+%3A%29" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/emillygarai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -132,3 +133,5 @@ Alguns meios de contato:
 
   [Índice :point_up:](#índice)
 </div>
+
+Divirta-se encontrando o Scranton Strangler!
