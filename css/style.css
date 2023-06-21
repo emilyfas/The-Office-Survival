@@ -125,9 +125,6 @@ main{
 
 
 @media screen and (max-width: 1217px) {
-    h1{
-        color: blue;
-    }
     .title-container{
         width: 50%;
     }
@@ -165,9 +162,6 @@ main{
     }
 } 
 @media screen and (max-width: 812px) {
-    h1{
-        color: pink;
-    }
     .title-container{
         width: 100%;
     }
