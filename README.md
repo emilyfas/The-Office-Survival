@@ -77,6 +77,8 @@ Se você quiser contribuir para o desenvolvimento deste projeto, siga as etapas 
 
 ## Responsividade: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png?raw=true" width="35" height="35"/>
 
+O site é totalmente responsivo com dois <i>break points</i> para garantir a funcionalidade do site em todos os tipos de telas, grandes, medias e pequenas.
+
 <img src="https://github.com/emilyfas/The-Office-Survival/assets/115494759/cab492e7-df25-459c-80f2-8ec46a9e6fb4" width="50%">
 <img src="https://github.com/emilyfas/The-Office-Survival/assets/115494759/587cc44f-e89a-400e-b4eb-9c8eaca2cf90" width="25%">
 <img src="https://github.com/emilyfas/The-Office-Survival/assets/115494759/b2b7c50e-e2e3-405e-96c8-70909dbd8532" width="20%">
@@ -91,7 +93,7 @@ Se você quiser contribuir para o desenvolvimento deste projeto, siga as etapas 
 
 ## Licença: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Page%20with%20Curl.png?raw=true" alt="Call Me Hand" width="25" height="25"/>
 
-Este projeto está licenciado sob [licença utilizada]. Para mais detalhes, consulte o arquivo `LICENSE`.
+Este projeto está licenciado sob MIT License. Para mais detalhes, consulte o arquivo `LICENSE.md`.
 
 </div>
 <div align="right">
