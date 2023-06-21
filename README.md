@@ -3,22 +3,77 @@
 ![Captura de tela - The Office Project](https://github.com/emilyfas/The-Office-Survival/assets/115494759/72c06037-4954-4ef5-8a74-fae69d69860e)
 
 ## Find the Scranton Strangler
-Um site engraçado e totalmente responsivo, baseado na serie The Office.
-
-[Acesse o site no GitHub Pages](https://emilyfas.github.io/The-Office-Survival/)
+Este projeto é um site interativo baseado na série de televisão "The Office". O objetivo principal é desvendar a identidade do famoso "Scranton Strangler" ao clicar em cards com fotos dos personagens da série. Cada vez que um card é selecionado, uma mensagem é exibida indicando se o personagem é o Scranton Strangler ou não. Além disso, o site apresenta um vídeo com uma cena icônica envolvendo o personagem selecionado.
 
 ---
 # Índice 
 * [Título e Imagem de capa](#the-office-survival)
 * [Índice](#índice)
-* [Sobre o Site](#sobre-o-site)
-* [Responsividade](#responsividadee)
+* [Sobre o Site](#find-the-scranton-strangler)
+* [Funcionalidades principais](#funcionalidades)
+* [Como utilizar o site](#acesso-ao-projeto)
+* [Contribuição](#contribuicao)
+* [Responsividade](#responsividade)
+* [License](#licensa)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Acesso ao projeto](#acesso-ao-projeto)
 * [Autora](#autora)
 
 
-<div id="responsividadees">
+<div id="funcionalidades">
+
+## Funcionalidades principais:
+
+- Exibição de cards com fotos dos personagens de "The Office".
+- Verificação interativa para identificar se o personagem clicado é o Scranton Strangler.
+- Feedback imediato com uma mensagem indicando a resposta correta.
+- Vídeo com uma cena icônica do personagem selecionado.
+
+</div>
+<div align="right">
+
+  [Índice :point_up:](#índice)
+</div>
+
+
+---
+<div id="acesso-ao-projeto">
+
+## Como utilizar o site:
+
+1. Acesse o site do projeto através do link [https://emilyfas.github.io/The-Office-Survival/].
+2. Na página principal, você verá uma grade de cards contendo fotos dos personagens de "The Office".
+3. Clique em um card para selecionar um personagem.
+4. Após selecionar o personagem, uma mensagem será exibida indicando se o personagem é o Scranton Strangler ou não.
+5. Além da mensagem, um vídeo com uma cena icônica do personagem será exibido para sua diversão.
+6. Repita os passos 3 a 5 para tentar encontrar o verdadeiro Scranton Strangler!
+
+
+Você tambem pode [acessar o código fonte do projeto inicial](https://github.com/emilyfas/The-Office-Survival.git) ou [baixar o arquivo .zip](https://github.com/emilyfas/The-Office-Survival/archive/refs/heads/main.zip).
+</div>
+<div align="right">
+
+  [Índice :point_up:](#índice)
+</div>
+
+<div id="contribuicao">
+
+##  Contribuição:
+
+Se você quiser contribuir para o desenvolvimento deste projeto, siga as etapas abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para suas modificações (`git checkout -b feature/nova-funcionalidade`).
+3. Faça as alterações desejadas e adicione uma descrição clara do que foi implementado.
+4. Envie um pull request descrevendo suas modificações e aguarde a revisão.
+
+</div>
+<div align="right">
+
+  [Índice :point_up:](#índice)
+</div>
+
+
+<div id="responsividade">
 
 ## Responsividadee:
 
@@ -32,6 +87,17 @@ Um site engraçado e totalmente responsivo, baseado na serie The Office.
   [Índice :point_up:](#índice)
 </div>
 
+<div id="licensa">
+
+## License:
+
+Este projeto está licenciado sob [licença utilizada]. Para mais detalhes, consulte o arquivo `LICENSE`.
+
+</div>
+<div align="right">
+
+  [Índice :point_up:](#índice)
+</div>
 
 <div id="tecnologias-utilizadas">
 
@@ -47,17 +113,7 @@ Um site engraçado e totalmente responsivo, baseado na serie The Office.
   [Índice :point_up:](#índice)
 </div>
 
----
-<div id="acesso-ao-projeto">
 
-## Acesso ao projeto:
-
-Você pode [acessar o código fonte do projeto inicial](https://github.com/emilyfas/The-Office-Survival.git) ou [baixar o arquivo .zip](https://github.com/emilyfas/The-Office-Survival/archive/refs/heads/main.zip).
-</div>
-<div align="right">
-
-  [Índice :point_up:](#índice)
-</div>
 
 
 ## Autora:
