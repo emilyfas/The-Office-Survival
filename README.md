@@ -18,7 +18,7 @@ Este projeto é um site interativo baseado na série de televisão "The Office".
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Contato](#contato)
 
-
+---
 <div id="funcionalidades">
 
 ## Funcionalidades principais: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png?raw=true" alt="motion emoji" width="30" height="30"/>
@@ -55,6 +55,7 @@ Você tambem pode [acessar o código fonte do projeto inicial](https://github.co
   [Índice :point_up:](#índice)
 </div>
 
+---
 <div id="contribuicao">
 
 ##  Contribuição: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/People%20Hugging.png?raw=true" alt="motion emoji" width="35" height="35"/>
@@ -72,7 +73,7 @@ Se você quiser contribuir para o desenvolvimento deste projeto, siga as etapas 
   [Índice :point_up:](#índice)
 </div>
 
-
+---
 <div id="responsividade">
 
 ## Responsividade: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png?raw=true" width="35" height="35"/>
@@ -89,6 +90,7 @@ O site é totalmente responsivo com dois <i>break points</i> para garantir a fun
   [Índice :point_up:](#índice)
 </div>
 
+---
 <div id="licensa">
 
 ## Licença: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Page%20with%20Curl.png?raw=true" alt="motion emoji" width="25" height="25"/>
@@ -101,6 +103,7 @@ Este projeto está licenciado sob MIT License. Para mais detalhes, consulte o ar
   [Índice :point_up:](#índice)
 </div>
 
+---
 <div id="tecnologias-utilizadas">
 
 ## Tecnologias usadas no projeto: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Toolbox.png?raw=true" alt="motion emoji" width="25" height="25"/>
@@ -115,7 +118,7 @@ Este projeto está licenciado sob MIT License. Para mais detalhes, consulte o ar
   [Índice :point_up:](#índice)
 </div>
 
-
+---
 <div id="contato">
 
 ## Contato: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="motion emoji" width="25" height="25"/>
@@ -136,4 +139,11 @@ Se você tiver alguma dúvida, sugestão ou quiser entrar em contato:
   [Índice :point_up:](#índice)
 </div>
 
+---
+<div align="center">
+
 Divirta-se encontrando o Scranton Strangler! <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+
+</div>
+
+---
