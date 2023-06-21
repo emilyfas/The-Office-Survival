@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     /* background-color: #181818; */
     background-image: url('../images/background.jpg');
@@ -101,16 +104,6 @@ main{
     display: block !important;
     animation: show 1s forwards;
 }
-
-#descricao1{
-    margin-left: 20px;
-    margin-top: 20px;
-    color: #dbdbdb;
-}
-#descricao2{
-    display: none;
-}
-
 @keyframes show {
     from{
         opacity: 0;
@@ -120,6 +113,16 @@ main{
         opacity: 1;
         transform: translate3d(0,0 ,0);
     }
+}
+
+
+#descricao1{
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #dbdbdb;
+}
+#descricao2{
+    display: none;
 }
 
 
@@ -142,7 +145,7 @@ main{
         flex-flow: row wrap;
     }
     .result-container{
-        width: 51%;
+        width: 60%;
     }
     .image-container div{
         margin-top: 15px;
@@ -164,6 +167,22 @@ main{
 @media screen and (max-width: 812px) {
     .title-container{
         width: 100%;
+        height: 100px;
+        display: flex;
+        grid-row: 1 1 1;
+        grid-column: 204 auto 204;
+        justify-content: center;
+        align-items: center;
+    }
+    h1{
+        width: 61%;
+    }
+    header p{
+        width: 50%;
+    }
+    #descricao2{
+        width: 100%;
+        margin-left: 3%;
     }
     .image-container{
         width: 95%;
@@ -182,10 +201,33 @@ main{
         width: 135px;
     }
     .result-container{
-        width: 95%;
+        width: 80%;
         height: 100%; 
     }
     .result-item video{
         width: 95%;
+    }
+}
+@media screen and (max-width: 642px){
+    h1{
+        font-size: 15px;
+    }
+    header p{
+        font-size: 12px;
+        font-weight: bold;
+    }
+    header p,h1{
+        margin-left: 3%;
+        margin-bottom: 4%;
+        width: 100%;
+    }
+    .image-container img{
+        width: 105px;
+    }
+    .image-item{
+        width: 105px;
+    }
+    .result-item{
+        width: 90%;
     }
 }

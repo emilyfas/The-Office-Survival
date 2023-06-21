@@ -4,7 +4,6 @@ function imageHover(event){
     event.currentTarget.classList.toggle('hover-image');
 }
 
-
 const opitions = document.querySelectorAll('.image-container div');
 const infos = document.querySelectorAll('.result-container div');
 
@@ -15,11 +14,7 @@ function activeTab(index){
     infos[index].classList.add("ativo");
 }
 
-
-
 const links = document.querySelectorAll('.image-item a');
-
-
 function linkHover(event){
     const windowHeight = document.body.offsetWidth;
 
@@ -37,18 +32,9 @@ function linkHover(event){
 
 
 
-
-
-
-
-
-
 links.forEach((link) => {
     link.addEventListener('mouseover', linkHover)
 })
-
-
-
 
 opitions.forEach((itemMenu, index) => {
     itemMenu.addEventListener('click', () => {
