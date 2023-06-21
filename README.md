@@ -8,8 +8,8 @@ Este projeto é um site interativo baseado na série de televisão "The Office".
 ---
 # Índice 
 * [Título e Imagem de capa](#the-office-survival)
-* [Índice](#índice)
 * [Sobre o Site](#find-the-scranton-strangler)
+* [Índice](#índice)
 * [Funcionalidades principais](#funcionalidades)
 * [Como utilizar o site](#acesso-ao-projeto)
 * [Contribuição](#contribuicao)
