@@ -21,7 +21,7 @@ Este projeto é um site interativo baseado na série de televisão "The Office".
 
 <div id="funcionalidades">
 
-## Funcionalidades principais: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png?raw=true" alt="Call Me Hand" width="30" height="30"/>
+## Funcionalidades principais: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png?raw=true" alt="motion emoji" width="30" height="30"/>
 
 - Exibição de cards com fotos dos personagens de "The Office".
 - Verificação interativa para identificar se o personagem clicado é o Scranton Strangler.
@@ -38,7 +38,7 @@ Este projeto é um site interativo baseado na série de televisão "The Office".
 ---
 <div id="acesso-ao-projeto">
 
-## Como utilizar o site: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png?raw=true" alt="Call Me Hand" width="35" height="35"/>
+## Como utilizar o site: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png?raw=true" alt="motion emoji" width="35" height="35"/>
 
 1. Acesse o site do projeto através do link [https://emilyfas.github.io/The-Office-Survival/].
 2. Na página principal, você verá uma grade de cards contendo fotos dos personagens de "The Office".
@@ -57,7 +57,7 @@ Você tambem pode [acessar o código fonte do projeto inicial](https://github.co
 
 <div id="contribuicao">
 
-##  Contribuição: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/People%20Hugging.png?raw=true" alt="Call Me Hand" width="35" height="35"/>
+##  Contribuição: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/People%20Hugging.png?raw=true" alt="motion emoji" width="35" height="35"/>
 
 Se você quiser contribuir para o desenvolvimento deste projeto, siga as etapas abaixo:
 
@@ -91,7 +91,7 @@ O site é totalmente responsivo com dois <i>break points</i> para garantir a fun
 
 <div id="licensa">
 
-## Licença: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Page%20with%20Curl.png?raw=true" alt="Call Me Hand" width="25" height="25"/>
+## Licença: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Page%20with%20Curl.png?raw=true" alt="motion emoji" width="25" height="25"/>
 
 Este projeto está licenciado sob MIT License. Para mais detalhes, consulte o arquivo `LICENSE.md`.
 
@@ -103,7 +103,7 @@ Este projeto está licenciado sob MIT License. Para mais detalhes, consulte o ar
 
 <div id="tecnologias-utilizadas">
 
-## Tecnologias usadas no projeto: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Toolbox.png?raw=true" alt="Call Me Hand" width="25" height="25"/>
+## Tecnologias usadas no projeto: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Toolbox.png?raw=true" alt="motion emoji" width="25" height="25"/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -118,7 +118,7 @@ Este projeto está licenciado sob MIT License. Para mais detalhes, consulte o ar
 
 <div id="contato">
 
-## Contato: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="Call Me Hand" width="25" height="25"/>
+## Contato: <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="motion emoji" width="25" height="25"/>
 
 ### Emilly Fernandes
 Se você tiver alguma dúvida, sugestão ou quiser entrar em contato:
